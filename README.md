@@ -1,2 +1,2 @@
-# Calculadora-Cient-fica
+# Calculadora-Cientifica
 Tarefa da faculdade
